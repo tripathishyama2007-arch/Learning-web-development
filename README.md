@@ -1,2 +1,2 @@
 # Learning-web-development
-This is my first Repositories
+This is my first Git Repositories
